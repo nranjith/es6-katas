@@ -1,1 +1,1 @@
-# es6-katas
+Do solutions for tddbin/es6-katas
